@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Selective Path-Level OBD2 & Manufacturer P/U-Code DTC Off Software (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/dtc"
+repository-code: "https://github.com/DavinciDeluxe/dtc-off-fault-code-remover"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
