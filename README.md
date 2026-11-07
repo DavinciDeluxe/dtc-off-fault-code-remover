@@ -1,7 +1,7 @@
-# Multi-DTC Table Scanner, Fault Code Remover & Online DTC Dictionary — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Multi-DTC Table Scanner, Fault Code Remover & Online DTC Dictionary — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/dtc)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5416%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5425%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 **DaVinci Deluxe Cloud Edition** combines an automated **Multi-DTC table scanner** (removing individual P-codes, U-codes, B-codes, C-codes & manufacturer hex fault paths cleanly) with our free public **[OBD2 DTC Code Dictionary](https://www.davincideluxe.fr/dtc)**.
 
@@ -14,7 +14,7 @@
 ## 🖥️ Multi-Platform Workflow (100% Virgin Original ECU Files)
 
 1. Read the **100% virgin original ECU binary** from the vehicle using your OBD, Bench, or Boot programmer.
-2. Upload or open the file in **DaVinci Deluxe Cloud Edition (v1.0.44)** on **Windows, macOS, Linux, Android, iPad, iPhone, or [Online Cloud Tuning](https://www.davincideluxe.fr/online-ecu-tuning)**.
+2. Upload or open the file in **DaVinci Deluxe Cloud Edition (v1.0.45)** on **Windows, macOS, Linux, Android, iPad, iPhone, or [Online Cloud Tuning](https://www.davincideluxe.fr/online-ecu-tuning)**.
 3. Select the desired calibration and export the **checksum-verified** binary in seconds — backed by **24h/7 live engineering support (365 days/year, holidays included)**.
 
 👉 **[Test your ECU file free right now at https://www.davincideluxe.fr/dtc →](https://www.davincideluxe.fr/dtc)**
