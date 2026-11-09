@@ -1,7 +1,7 @@
 # Multi-DTC Table Scanner, Fault Code Remover & Online DTC Dictionary — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Official Platform](https://img.shields.io/badge/Official_Software-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/dtc)
-[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5425%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
+[![Cars + Trucks + Marine](https://img.shields.io/badge/Coverage-5434%2B_ECUs-00c8ff?style=for-the-badge)](https://www.davincideluxe.fr/#check-file)
 
 **DaVinci Deluxe Cloud Edition** combines an automated **Multi-DTC table scanner** (removing individual P-codes, U-codes, B-codes, C-codes & manufacturer hex fault paths cleanly) with our free public **[OBD2 DTC Code Dictionary](https://www.davincideluxe.fr/dtc)**.
 
